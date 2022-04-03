@@ -1,0 +1,16 @@
+PODS:
+  - MTSwiftLibrary (0.1.0)
+
+DEPENDENCIES:
+  - MTSwiftLibrary (from `../`)
+
+EXTERNAL SOURCES:
+  MTSwiftLibrary:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MTSwiftLibrary: 7f2dc37e3f40041dc6bdf3e422670ec2c10dab4a
+
+PODFILE CHECKSUM: 0b071a4ddd9369b1723e9407c8e4f059e797405c
+
+COCOAPODS: 1.10.1

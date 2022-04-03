@@ -1,0 +1,24 @@
+{
+  "name": "MTSwiftLibrary",
+  "version": "0.1.0",
+  "summary": "A short description of MTSwiftLibrary.",
+  "swift_versions": "5.5",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/王奕聪/MTSwiftLibrary",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "王奕聪": "alrjqow@163.com"
+  },
+  "source": {
+    "git": "https://github.com/王奕聪/MTSwiftLibrary.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "MTSwiftLibrary/Classes/**/*",
+  "swift_version": "5.5"
+}

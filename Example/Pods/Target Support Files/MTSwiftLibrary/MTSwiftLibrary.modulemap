@@ -1,0 +1,6 @@
+framework module MTSwiftLibrary {
+  umbrella header "MTSwiftLibrary-umbrella.h"
+
+  export *
+  module * { export * }
+}

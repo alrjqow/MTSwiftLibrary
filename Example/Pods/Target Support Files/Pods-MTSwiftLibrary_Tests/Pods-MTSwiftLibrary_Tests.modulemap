@@ -1,0 +1,6 @@
+framework module Pods_MTSwiftLibrary_Tests {
+  umbrella header "Pods-MTSwiftLibrary_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
