@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'MTSwiftLibrary_Example' do
+  pod 'MTSwiftLibrary', :path => '../'
+
+  target 'MTSwiftLibrary_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
