@@ -32,7 +32,7 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '9.0'
 
   s.source_files = 'MTSwiftLibrary/Classes/**/*'
-  
+  s.pod_target_xcconfig = { 'VALID_ARCHS' => 'x86_64 armv7 arm64' }
   
   # s.resource_bundles = {
   #   'MTSwiftLibrary' => ['MTSwiftLibrary/Assets/*.png']
